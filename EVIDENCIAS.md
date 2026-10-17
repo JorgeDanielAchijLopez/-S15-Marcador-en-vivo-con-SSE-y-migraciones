@@ -1,4 +1,4 @@
-# Evidencias para entregar en Canvas
+# Evidencias 
 
 Saca estas **6 capturas reales** luego de ejecutar el sistema. Debajo de cada imagen puedes copiar su descripción. No inventes imágenes ni reemplaces las capturas por ilustraciones.
 
