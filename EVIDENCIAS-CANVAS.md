@@ -42,6 +42,5 @@ Saca estas **6 capturas reales** luego de ejecutar el sistema. Debajo de cada im
 
 **Proyecto:** Marcador Live — aplicación web de fútbol en vivo desarrollada con TypeScript, React, Express, SQLite y Drizzle ORM. Implementa SSE mediante EventSource, persistencia y dos migraciones versionadas.
 
-**Repositorio:** [coloca aquí la URL real de GitHub]
 
 **Evidencias:** Se adjuntan capturas de la vista pública, administración, conexión SSE, migraciones, persistencia y aislamiento entre partidos.
